@@ -72,4 +72,8 @@ BOOL CMessageBoxApp::InitInstance()
 	//  application, rather than start the application's message pump.
 	return FALSE;
 }
-//123312
+<<<<<<< HEAD
+//1
+//abc
+=======
+>>>>>>> parent of 400ff2e... add 123
