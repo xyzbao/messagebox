@@ -73,7 +73,4 @@ BOOL CMessageBoxApp::InitInstance()
 	return FALSE;
 }
 <<<<<<< HEAD
-//1
-//abc
-=======
->>>>>>> parent of 400ff2e... add 123
+<<<<<<< HEAD
