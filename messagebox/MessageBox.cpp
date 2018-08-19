@@ -72,3 +72,4 @@ BOOL CMessageBoxApp::InitInstance()
 	//  application, rather than start the application's message pump.
 	return FALSE;
 }
+//123312
